@@ -21,8 +21,6 @@ plt.hist(df['salary'], bins=5)
 plt.show()
 
 
-# import seaborn as sns
-# import matplotlib.pyplot as plt
 data = [10,20,30,40,50]
 sns.histplot(data)
 plt.show()
